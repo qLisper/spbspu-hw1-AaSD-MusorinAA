@@ -1,1 +1,1 @@
-# spbspu-hw-SD
+Соглашения No fake/loop
